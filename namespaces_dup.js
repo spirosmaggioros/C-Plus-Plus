@@ -11,7 +11,10 @@ var namespaces_dup =
     [ "base64_encoding", "d9/dc9/namespacebase64__encoding.html", null ],
     [ "bidirectional_dijkstra", "d4/d13/namespacebidirectional__dijkstra.html", null ],
     [ "binomial", "d7/d7a/namespacebinomial.html", null ],
-    [ "bit_manipulation", "d7/d81/namespacebit__manipulation.html", null ],
+    [ "bit_manipulation", "d7/d81/namespacebit__manipulation.html", [
+      [ "isPowerOfTwo", "d7/d81/namespacebit__manipulation.html#a5032470c9974bbd6ec254bf296530a5f", null ]
+    ] ],
+    [ "boruvkas_minimum_spanning_tree", "d8/d64/namespaceboruvkas__minimum__spanning__tree.html", null ],
     [ "caesar", "dd/d81/namespacecaesar.html", null ],
     [ "ciphers", "d6/d4e/namespaceciphers.html", "d6/d4e/namespaceciphers" ],
     [ "circular_linked_list", "d4/dcd/namespacecircular__linked__list.html", null ],
@@ -29,7 +32,8 @@ var namespaces_dup =
     [ "double_hashing", "d0/d65/namespacedouble__hashing.html", "d0/d65/namespacedouble__hashing" ],
     [ "dp", "df/d88/namespacedp.html", null ],
     [ "dynamic_programming", "dd/d24/namespacedynamic__programming.html", [
-      [ "LIS", "dd/d24/namespacedynamic__programming.html#a0a2215194e58786c34db1ccaf8031079", null ]
+      [ "LIS", "dd/d24/namespacedynamic__programming.html#a0a2215194e58786c34db1ccaf8031079", null ],
+      [ "maxCircularSum", "dd/d24/namespacedynamic__programming.html#a5239174fa0d987f2c67edc1f2af82beb", null ]
     ] ],
     [ "false_position", "df/dea/namespacefalse__position.html", null ],
     [ "fibonacci_sum", "d3/dc9/namespacefibonacci__sum.html", null ],
@@ -39,6 +43,7 @@ var namespaces_dup =
     [ "gram_schmidt", "d4/d0f/namespacegram__schmidt.html", null ],
     [ "graph", "df/dce/namespacegraph.html", "df/dce/namespacegraph" ],
     [ "graph_coloring", "d7/d08/namespacegraph__coloring.html", null ],
+    [ "greedy_algorithms", "d2/d90/namespacegreedy__algorithms.html", null ],
     [ "ground_to_ground_projectile_motion", "d0/d20/namespaceground__to__ground__projectile__motion.html", null ],
     [ "hamming_distance", "d4/d1c/namespacehamming__distance.html", null ],
     [ "hashing", "d6/d0c/namespacehashing.html", null ],
@@ -51,6 +56,7 @@ var namespaces_dup =
     [ "is_graph_bipartite", "de/d83/namespaceis__graph__bipartite.html", null ],
     [ "iterative_tree_traversals", "dd/d73/namespaceiterative__tree__traversals.html", null ],
     [ "jarvis", "d5/da7/namespacejarvis.html", null ],
+    [ "k_nearest_neighbors", "d7/d4c/namespacek__nearest__neighbors.html", null ],
     [ "kadane", "d6/d74/namespacekadane.html", null ],
     [ "karatsuba_algorithm", "de/d41/namespacekaratsuba__algorithm.html", null ],
     [ "Knapsack", "d7/daf/namespace_knapsack.html", null ],
@@ -148,6 +154,7 @@ var namespaces_dup =
     [ "statistics", "d2/dcf/namespacestatistics.html", "d2/dcf/namespacestatistics" ],
     [ "std", "d8/dcc/namespacestd.html", "d8/dcc/namespacestd" ],
     [ "strand", "d8/d1d/namespacestrand.html", null ],
+    [ "strassens_multiplication", "d3/d91/namespacestrassens__multiplication.html", null ],
     [ "string_search", "d9/d03/namespacestring__search.html", [
       [ "brute_force", "d9/d03/namespacestring__search.html#aeb2cd81064717aedd62bfb096b1a73d8", null ],
       [ "check_if_equal", "d9/d03/namespacestring__search.html#aebe07cea289a13142503d98be7df11fd", null ],
@@ -160,6 +167,7 @@ var namespaces_dup =
     [ "strings", "df/dcb/namespacestrings.html", null ],
     [ "subarray_sum", "df/d74/namespacesubarray__sum.html", null ],
     [ "sublist_search", "d9/def/namespacesublist__search.html", null ],
+    [ "subset_sum", "dc/d3a/namespacesubset__sum.html", null ],
     [ "Subsets", "de/d95/namespace_subsets.html", null ],
     [ "sudoku_solver", "d8/d9f/namespacesudoku__solver.html", null ],
     [ "tests", "d9/df4/namespacetests.html", [
@@ -170,6 +178,7 @@ var namespaces_dup =
       [ "test5", "d9/df4/namespacetests.html#af7b81d7a1534216af6a36a80135beb86", null ],
       [ "test6", "d9/df4/namespacetests.html#aacafde185abd8670abee51157f273dc2", null ]
     ] ],
+    [ "travellingSalesman_bitmanipulation", "d7/d3f/namespacetravelling_salesman__bitmanipulation.html", null ],
     [ "tree_234", "d6/dab/namespacetree__234.html", null ],
     [ "trie_operations", "df/d8e/namespacetrie__operations.html", null ],
     [ "trie_using_hashmap", "d7/d0a/namespacetrie__using__hashmap.html", null ],

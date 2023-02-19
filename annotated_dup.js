@@ -37,6 +37,11 @@ var annotated_dup =
       [ "SkipList", "d4/d90/classdata__structures_1_1_skip_list.html", "d4/d90/classdata__structures_1_1_skip_list" ],
       [ "trie", "d0/d3e/classdata__structures_1_1trie.html", "d0/d3e/classdata__structures_1_1trie" ]
     ] ],
+    [ "divide_and_conquer", "dd/dba/namespacedivide__and__conquer.html", [
+      [ "strassens_multiplication", null, [
+        [ "Matrix", "dc/d13/classdivide__and__conquer_1_1strassens__multiplication_1_1_matrix.html", "dc/d13/classdivide__and__conquer_1_1strassens__multiplication_1_1_matrix" ]
+      ] ]
+    ] ],
     [ "double_hashing", "d0/d65/namespacedouble__hashing.html", [
       [ "Entry", "d9/dde/structdouble__hashing_1_1_entry.html", "d9/dde/structdouble__hashing_1_1_entry" ]
     ] ],
@@ -65,6 +70,9 @@ var annotated_dup =
       [ "aystar_search", null, [
         [ "AyStarSearch", "da/d02/classmachine__learning_1_1aystar__search_1_1_ay_star_search.html", "da/d02/classmachine__learning_1_1aystar__search_1_1_ay_star_search" ],
         [ "EightPuzzle", "dd/d9c/classmachine__learning_1_1aystar__search_1_1_eight_puzzle.html", "dd/d9c/classmachine__learning_1_1aystar__search_1_1_eight_puzzle" ]
+      ] ],
+      [ "k_nearest_neighbors", null, [
+        [ "Knn", "da/d94/classmachine__learning_1_1k__nearest__neighbors_1_1_knn.html", "da/d94/classmachine__learning_1_1k__nearest__neighbors_1_1_knn" ]
       ] ],
       [ "neural_network", null, [
         [ "layers", null, [
@@ -151,8 +159,8 @@ var annotated_dup =
     [ "binary_search_tree", "d9/dde/classbinary__search__tree.html", "d9/dde/classbinary__search__tree" ],
     [ "Btree", "d9/d90/struct_btree.html", null ],
     [ "cll", "d5/d15/classcll.html", null ],
-    [ "Compare", "de/d4a/class_compare.html", "de/d4a/class_compare" ],
     [ "compare", "d1/db3/structcompare.html", null ],
+    [ "Compare", "de/d4a/class_compare.html", "de/d4a/class_compare" ],
     [ "Complex", "da/d5a/class_complex.html", "da/d5a/class_complex" ],
     [ "CycleCheck", "d3/dbb/class_cycle_check.html", "d3/dbb/class_cycle_check" ],
     [ "double_linked_list", "d9/dee/classdouble__linked__list.html", null ],
@@ -171,8 +179,8 @@ var annotated_dup =
     [ "MinHeap", "d2/d05/class_min_heap.html", "d2/d05/class_min_heap" ],
     [ "MinHeapNode", "d5/d29/struct_min_heap_node.html", null ],
     [ "mst", "d1/d77/structmst.html", null ],
+    [ "node", "d5/da1/structnode.html", null ],
     [ "Node", "db/d8b/struct_node.html", null ],
-    [ "node", "d5/da1/structnode.html", "d5/da1/structnode" ],
     [ "Point", "d8/dc8/struct_point.html", "d8/dc8/struct_point" ],
     [ "query", "dd/d1b/structquery.html", null ],
     [ "Queue", "dc/db5/struct_queue.html", null ],
