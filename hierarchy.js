@@ -28,13 +28,16 @@ var hierarchy =
     [ "linear_probing::Entry", "db/d19/structlinear__probing_1_1_entry.html", null ],
     [ "quadratic_probing::Entry", "da/dd1/structquadratic__probing_1_1_entry.html", null ],
     [ "FCFS< S, T, E >", "dd/dca/class_f_c_f_s.html", null ],
-    [ "FenwickTree", "dd/d91/class_fenwick_tree.html", null ],
+    [ "range_queries::fenwick_tree", "de/d0d/classrange__queries_1_1fenwick__tree.html", null ],
+    [ "backtracking::generate_parentheses", "df/de5/classbacktracking_1_1generate__parentheses.html", null ],
     [ "probability::geometric_dist::geometric_distribution", "da/d19/classprobability_1_1geometric__dist_1_1geometric__distribution.html", null ],
     [ "Graph", "da/d9a/class_graph.html", null ],
     [ "graph::Graph< T >", "dc/d61/classgraph_1_1_graph.html", [
       [ "graph::RootedTree", "d0/d58/classgraph_1_1_rooted_tree.html", null ]
     ] ],
     [ "graph::is_graph_bipartite::Graph", "de/d00/classgraph_1_1is__graph__bipartite_1_1_graph.html", null ],
+    [ "greedy_algorithms::dijkstra::Graph", "d2/daa/classgreedy__algorithms_1_1dijkstra_1_1_graph.html", null ],
+    [ "hashing::sha256::Hash", "d6/d84/classhashing_1_1sha256_1_1_hash.html", null ],
     [ "hash_chain", "dd/d1c/classhash__chain.html", null ],
     [ "ciphers::HillCipher", "d6/d26/classciphers_1_1_hill_cipher.html", null ],
     [ "graph::HKGraph", "d8/d69/classgraph_1_1_h_k_graph.html", null ],
@@ -70,11 +73,11 @@ var hierarchy =
     [ "range_queries::perSegTree::Node", "d5/d66/classrange__queries_1_1per_seg_tree_1_1_node.html", null ],
     [ "search::sublist_search::Node", "da/d61/structsearch_1_1sublist__search_1_1_node.html", null ],
     [ "Node< value_type >", "db/d8b/struct_node.html", null ],
+    [ "strings::boyer_moore::pattern", "dd/d5a/structstrings_1_1boyer__moore_1_1pattern.html", null ],
     [ "range_queries::perSegTree", "d8/d28/classrange__queries_1_1per_seg_tree.html", null ],
     [ "ciphers::elliptic_curve_key_exchange::Point", "d6/d45/structciphers_1_1elliptic__curve__key__exchange_1_1_point.html", null ],
     [ "geometry::grahamscan::Point", "d7/d48/structgeometry_1_1grahamscan_1_1_point.html", null ],
     [ "geometry::jarvis::Point", "d9/d5a/structgeometry_1_1jarvis_1_1_point.html", null ],
-    [ "math::Point", "de/d4f/structmath_1_1_point.html", null ],
     [ "Point", "d8/dc8/struct_point.html", null ],
     [ "query", "dd/d1b/structquery.html", null ],
     [ "Queue", "dc/db5/struct_queue.html", null ],
@@ -82,6 +85,7 @@ var hierarchy =
     [ "data_structures::queue_using_array::Queue_Array", "d6/d04/classdata__structures_1_1queue__using__array_1_1_queue___array.html", null ],
     [ "RBtree", "d8/d72/class_r_btree.html", null ],
     [ "SegmentIntersection", "d4/db4/struct_segment_intersection.html", null ],
+    [ "data_structures::SegmentTree< T >", "dd/d95/classdata__structures_1_1_segment_tree.html", null ],
     [ "range_queries::heavy_light_decomposition::SG< X >", "d9/d35/classrange__queries_1_1heavy__light__decomposition_1_1_s_g.html", [
       [ "range_queries::heavy_light_decomposition::HLD< X >", "d2/d8a/classrange__queries_1_1heavy__light__decomposition_1_1_h_l_d.html", null ]
     ] ],
@@ -94,9 +98,11 @@ var hierarchy =
     [ "stack_linkedList", "d2/dc4/classstack__linked_list.html", null ],
     [ "statistics::stats_computer1< T >", "d7/d7c/classstatistics_1_1stats__computer1.html", null ],
     [ "statistics::stats_computer2< T >", "d8/dab/classstatistics_1_1stats__computer2.html", null ],
+    [ "TestCase", "da/d86/struct_test_case.html", null ],
     [ "TestCases", "d5/d58/class_test_cases.html", null ],
     [ "operations_on_datastructures::trie_operations::Tnode", "d0/d5f/classoperations__on__datastructures_1_1trie__operations_1_1_tnode.html", null ],
     [ "tower", "d2/d2c/structtower.html", null ],
+    [ "data_structures::treap::Treap", "d5/d95/structdata__structures_1_1treap_1_1_treap.html", null ],
     [ "range_queries::heavy_light_decomposition::Tree< X >", "d1/d51/classrange__queries_1_1heavy__light__decomposition_1_1_tree.html", [
       [ "range_queries::heavy_light_decomposition::HLD< X >", "d2/d8a/classrange__queries_1_1heavy__light__decomposition_1_1_h_l_d.html", null ]
     ] ],

@@ -1,7 +1,7 @@
 var searchData=
 [
   ['has_5fvirtual_5fdestructor_0',['has_virtual_destructor',['http://en.cppreference.com/w/cpp/types/has_virtual_destructor.html',0,'std']]],
-  ['hash_1',['hash',['http://en.cppreference.com/w/cpp/utility/hash.html',0,'std']]],
+  ['hash_1',['hash',['../d6/d84/classhashing_1_1sha256_1_1_hash.html',1,'hashing::sha256::Hash'],['http://en.cppreference.com/w/cpp/utility/hash.html',0,'std::hash']]],
   ['hash_5fchain_2',['hash_chain',['../dd/d1c/classhash__chain.html',1,'']]],
   ['hecto_3',['hecto',['http://en.cppreference.com/w/cpp/numeric/ratio/ratio.html',0,'std']]],
   ['high_5fresolution_5fclock_4',['high_resolution_clock',['http://en.cppreference.com/w/cpp/chrono/high_resolution_clock.html',0,'std::chrono']]],
